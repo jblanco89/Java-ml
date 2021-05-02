@@ -1,0 +1,8 @@
+@relation datos
+
+@attribute pd numeric
+@attribute pruebaId numeric
+
+@data
+27,19
+9,22
