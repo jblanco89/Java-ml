@@ -16,7 +16,7 @@ public class dbconfigmariaDB {
 
     public dbconfigmariaDB() {
         userName="root";
-        password="Picholudo2202";
+        password="";
         url="jdbc:mariadb://localhost:3307/jhipster";
         driver="org.mariadb.jdbc.Driver";
         String consulta="SELECT  * FROM resultado_prueba";
